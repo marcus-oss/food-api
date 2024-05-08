@@ -1,0 +1,22 @@
+{
+  "groups": [
+    {
+      "name": "notificador.email",
+      "type": "com.food.NotificadorProperties",
+      "sourceType": "com.food.NotificadorProperties"
+    }
+  ],
+  "properties": [
+    {
+      "name": "notificador.email.host-servidor",
+      "type": "java.lang.String",
+      "sourceType": "com.food.NotificadorProperties"
+    },
+    {
+      "name": "notificador.email.porta-servidor",
+      "type": "java.lang.Integer",
+      "sourceType": "com.food.NotificadorProperties"
+    }
+  ],
+  "hints": []
+}
